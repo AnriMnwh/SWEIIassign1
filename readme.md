@@ -1,7 +1,7 @@
 # by Anari Manwah. student ID = 816024772.
 
 # Software Engineering II Assignment 1
-This project is based on the staff allocations assigned to me. Below is a list of commands that can be used to interact with the application. The assignment was done locally on PyCharm and committed to the repo. It has three files of importance; **control_model.py**, **models.py**, and **wsgi.py** that were modified and created.
+This project is based on the staff allocations assigned to me. Below is a list of commands that can be used to interact with the application. The assignment was done locally on PyCharm and committed to the repo through codespaces. It has three files of importance; **control_model.py**, **models.py**, and **wsgi.py** that were modified and created.
 I used the offical docs to help me with the formatting of the readme.
 
 
